@@ -32,3 +32,8 @@
 2022-09-26 01:15:44.693 [main] INFO  com.generics.App - Max Number is not present at Position 2!3
 2022-09-26 01:15:44.695 [main] INFO  com.generics.App - 2
 2022-09-26 01:15:44.695 [main] INFO  com.generics.App - 3
+2022-09-26 01:29:55.810 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 01:29:55.826 [main] INFO  com.generics.App - Give 3 inputs of Integers to check max:
+2022-09-26 01:30:04.889 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 01:30:04.891 [main] INFO  com.generics.App - Give 3 inputs of Strings to check max:
+2022-09-26 01:30:16.023 [main] INFO  com.generics.App - Max String is at Position 2! qwertyu
