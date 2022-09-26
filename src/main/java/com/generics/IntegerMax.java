@@ -17,7 +17,7 @@ public class IntegerMax {
         return max;
     }
 
-    void checkMaxAt2ndPos(int val, int max) {
+    <T> void checkMaxAt2ndPos(T val, T max) {
         if (val == max) {
             logger.info("Max Number is at Position 2! " + max);
         } else {

@@ -37,3 +37,97 @@
 2022-09-26 01:30:04.889 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
 2022-09-26 01:30:04.891 [main] INFO  com.generics.App - Give 3 inputs of Strings to check max:
 2022-09-26 01:30:16.023 [main] INFO  com.generics.App - Max String is at Position 2! qwertyu
+2022-09-26 15:15:44.428 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 15:15:44.434 [main] INFO  com.generics.App - Give 3 inputs:
+2022-09-26 15:15:47.674 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 15:15:47.675 [main] INFO  com.generics.App - Max String is not present at Position 2! 3
+2022-09-26 17:23:08.322 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:23:08.322 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:23:10.522 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:23:10.523 [main] INFO  com.generics.App - Max String is not present at Position 2! 0
+2022-09-26 17:23:10.524 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:23:19.948 [main] INFO  com.generics.App - Max String is at Position 2! sadf
+2022-09-26 17:23:19.949 [main] INFO  com.generics.App - Max String is not present at Position 2! sadf
+2022-09-26 17:24:20.888 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:24:20.888 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:24:24.523 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:24:24.523 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:24:24.525 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:24:34.460 [main] INFO  com.generics.App - Max String is at Position 2! sdfsd
+2022-09-26 17:24:34.461 [main] INFO  com.generics.App - Max is not present at Position 2! sdfsd
+2022-09-26 17:25:06.634 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:25:06.650 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:25:11.138 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:25:11.139 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:25:11.140 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:25:17.652 [main] INFO  com.generics.App - Max String is at Position 2! dsfds
+2022-09-26 17:25:17.653 [main] INFO  com.generics.App - Max is at Position 2! dsfds
+2022-09-26 17:25:58.641 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:25:58.645 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:26:03.132 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:26:03.133 [main] INFO  com.generics.App - Max is not present at Position 2! 3
+2022-09-26 17:26:03.134 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:26:12.190 [main] INFO  com.generics.App - Max String is at Position 2! sadf
+2022-09-26 17:26:12.190 [main] INFO  com.generics.App - Max is at Position 2! sadf
+2022-09-26 17:27:16.096 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:27:16.099 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:27:18.825 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:27:18.826 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:27:18.826 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:27:25.775 [main] INFO  com.generics.App - Max String is not present at Position 2! saddd
+2022-09-26 17:27:25.775 [main] INFO  com.generics.App - Max is not present at Position 2! saddd
+2022-09-26 17:34:13.537 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:34:13.537 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:34:15.923 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:34:15.924 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:34:15.924 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:34:22.309 [main] INFO  com.generics.App - Max String is at Position 2! asddff
+2022-09-26 17:34:22.310 [main] INFO  com.generics.App - Max is at Position 2! asddff
+2022-09-26 17:38:42.932 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:38:42.935 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:38:45.507 [main] INFO  com.generics.App - Max Number is not present at Position 2! 43
+2022-09-26 17:38:45.508 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:38:45.509 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:39:01.315 [main] INFO  com.generics.App - Max String is not present at Position 2! 1
+2022-09-26 17:39:01.315 [main] INFO  com.generics.App - Max is not present at Position 2! 1
+2022-09-26 17:39:04.738 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:39:04.738 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:39:08.456 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:39:08.461 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:39:13.035 [main] INFO  com.generics.App - Max Number is not present at Position 2! 54
+2022-09-26 17:39:13.036 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:39:13.037 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:39:20.332 [main] INFO  com.generics.App - Max String is at Position 2! sadfas
+2022-09-26 17:39:20.332 [main] INFO  com.generics.App - Max is at Position 2! sadfas
+2022-09-26 17:40:01.665 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:40:01.665 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:40:07.903 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:40:07.907 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:40:10.498 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:40:10.499 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:40:10.500 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:41:10.392 [main] INFO  com.generics.App - Max String is not present at Position 2!  c:; cd 'c:\Users\Rahul\java\generics'; & 'C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '@C:\Users\Rahul\AppData\Local\Temp\cp_eaks9z76ordtf4h8bxwpi2ljx.argfile' 'com.generics.App' 
+2022-09-26 17:41:10.393 [main] INFO  com.generics.App - Max is not present at Position 2!  c:; cd 'c:\Users\Rahul\java\generics'; & 'C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '@C:\Users\Rahul\AppData\Local\Temp\cp_eaks9z76ordtf4h8bxwpi2ljx.argfile' 'com.generics.App' 
+2022-09-26 17:41:14.246 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:41:14.246 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:41:15.433 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:41:15.434 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:41:15.435 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:41:27.517 [main] INFO  com.generics.App - Max String is not present at Position 2!  c:; cd 'c:\Users\Rahul\java\generics'; & 'C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '@C:\Users\Rahul\AppData\Local\Temp\cp_eaks9z76ordtf4h8bxwpi2ljx.argfile' 'com.generics.App' 
+2022-09-26 17:41:27.517 [main] INFO  com.generics.App - Max is not present at Position 2!  c:; cd 'c:\Users\Rahul\java\generics'; & 'C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '@C:\Users\Rahul\AppData\Local\Temp\cp_eaks9z76ordtf4h8bxwpi2ljx.argfile' 'com.generics.App' 
+2022-09-26 17:42:49.370 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:42:49.374 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:43:10.929 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:43:10.929 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:43:13.585 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:43:13.585 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:43:13.586 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:43:17.757 [main] INFO  com.generics.App - Max String is not present at Position 2! adsf
+2022-09-26 17:43:17.758 [main] INFO  com.generics.App - Max is not present at Position 2! adsf
+2022-09-26 17:44:33.067 [main] INFO  com.generics.App - Hello to Genrics Program!
+2022-09-26 17:44:33.072 [main] INFO  com.generics.App - Give 3 inputs of integer:
+2022-09-26 17:44:34.785 [main] INFO  com.generics.App - Max Number is not present at Position 2! 3
+2022-09-26 17:44:34.785 [main] INFO  com.generics.App - Max is not present at Position 2! 0
+2022-09-26 17:44:34.786 [main] INFO  com.generics.App - Give 3 inputs of strings:
+2022-09-26 17:44:41.318 [main] INFO  com.generics.App - Max String is not present at Position 2! asdd
+2022-09-26 17:44:41.318 [main] INFO  com.generics.App - Max is not present at Position 2! asdd
